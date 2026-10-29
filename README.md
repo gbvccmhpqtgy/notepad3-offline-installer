@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Notepad3 Free Installer** — Notepad3 is a free, fast source code editor for Windows based on the Scintilla engine. Works without internet access, no account required. Full offline installation.
+**💻 Notepad3 Free Installer** — Notepad3 is a free, fast source code editor for Windows based on the Scintilla editing component and the original Notepad2 project. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Notepad3
 
-Notepad3 is a free, fast source code editor for Windows based on the Scintilla engine. A drop-in Notepad replacement, it supports syntax highlighting, regular expression search, bracket matching, code folding, and encoding detection while staying lightweight.
+Notepad3 is a free, fast source code editor for Windows based on the Scintilla editing component and the original Notepad2 project. Features syntax highlighting for dozens of languages, regular expression search, code folding, Unicode support, and a minimal interface that loads instantly. Notepad3 is designed as a direct replacement for Windows Notepad with significantly more power.
 
 ---
 
 ## ❌ Problem: Notepad3 is hard to access
 
-- **Windows Only** — Not available on macOS or Linux
-- **Basic Feature Set** — Missing IDE features like Git integration, terminal, and extensions
-- **Configuration Limited** — Less customizable than editors with plugin ecosystems
-- **Minimal Scope** — Best used as an enhanced Notepad, not a full development environment
+- **Windows Only** — No macOS or Linux version
+- **Feature Scope** — More limited than full-featured editors like VS Code for complex projects
+- **Plugin Support** — No extension system for adding new functionality
+- **Collaboration** — No built-in real-time collaboration features
 
 ---
 
@@ -121,7 +121,7 @@ Notepad3 is a free, fast source code editor for Windows based on the Scintilla e
 
 ---
 
-**Notepad3 Free Installer** — Notepad3 is a free, fast source code editor for Windows based on the Scintilla engine. Install without internet connection today!
+**Notepad3 Free Installer** — Notepad3 is a free, fast source code editor for Windows based on the Scintilla editing component and the original Notepad2 project. Install without internet connection today!
 
 <div align="center">
 
